@@ -1,16 +1,17 @@
 module.exports = {
   title: "Natives in Tech Docs",
-  tagline: "The tagline of my site",
+  tagline:
+    "Searchable documentation for the Natives in Tech GitHub organization",
   url: "https://nativesintech.github.io",
   baseUrl: "/docs/",
   favicon: "img/favicon.ico",
-  organizationName: "nativesintech", // Usually your GitHub org/user name.
-  projectName: "docs", // Usually your repo name.
+  organizationName: "nativesintech",
+  projectName: "docs",
   themeConfig: {
     navbar: {
-      title: "My Site",
+      title: "Natives in Tech",
       logo: {
-        alt: "My Site Logo",
+        alt: "Natives in Tech Logo",
         src: "img/logo.svg",
       },
       links: [
@@ -22,7 +23,7 @@ module.exports = {
         },
         { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/nativesintech/docs",
           label: "GitHub",
           position: "right",
         },
@@ -35,11 +36,11 @@ module.exports = {
           title: "Docs",
           items: [
             {
-              label: "Style Guide",
+              label: "About",
               to: "docs/beginning",
             },
             {
-              label: "Second Doc",
+              label: "Projects",
               to: "docs/projects",
             },
           ],
@@ -48,12 +49,12 @@ module.exports = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Slack",
+              href: "http://nativesintech.herokuapp.com/",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Forum",
+              href: "https://forum.nativesintech.org",
             },
           ],
         },
@@ -66,16 +67,24 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/nativesintech/docs",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/nativesintech",
+            },
+            {
+              label: "LinkedIn",
+              href: "https://linkedin.com/company/natives-in-tech",
+            },
+            {
+              label: "Facebook",
+              href: "https://facebook.com/nativesintech",
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Native in Tech, Inc. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -84,8 +93,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
-          editUrl:
-            "https://github.com/facebook/docusaurus/edit/master/website/",
+          editUrl: "https://github.com/nativesintech/docs/edit/master/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

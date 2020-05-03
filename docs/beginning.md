@@ -35,7 +35,3 @@ Not all software is code, although most will think so. The JavaScript community 
 ## What You Will Find Here
 
 We want the documentation to be as helpful as possible and be able to give insight into what Natives in Tech is all about. We also want to expound on some of the more communal topics like how to become a contributor. In general, we want technical folks to have pleasant experience learning about Natives in Tech and we think this platform will provide that.
-
-## How Was This Made
-
-This project was made with the help of [Docusaurus](https://v2.docusaurus.io/).
