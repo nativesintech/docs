@@ -1,8 +1,8 @@
 module.exports = {
   title: "Natives in Tech Docs",
   tagline: "The tagline of my site",
-  url: "https://nativesintech.github.io/docs",
-  baseUrl: "/",
+  url: "https://nativesintech.github.io",
+  baseUrl: "/docs/",
   favicon: "img/favicon.ico",
   organizationName: "nativesintech", // Usually your GitHub org/user name.
   projectName: "docs", // Usually your repo name.
