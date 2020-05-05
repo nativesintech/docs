@@ -1,6 +1,6 @@
 ---
 id: resources
-title: Using NiT Resources
+title: Hosting on a Platform 💻
 sidebar_label: Resources
 ---
 

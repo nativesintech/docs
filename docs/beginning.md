@@ -1,6 +1,6 @@
 ---
 id: beginning
-title: The Beginning
+title: The Beginning 🌎
 sidebar_label: About
 ---
 

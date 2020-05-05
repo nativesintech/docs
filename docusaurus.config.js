@@ -28,6 +28,10 @@ module.exports = {
           position: "right",
         },
       ],
+      algolia: {
+        apiKey: "977abf334a413942460b7e2ee3c0030f",
+        indexName: "nativesintech",
+      },
     },
     footer: {
       style: "dark",
@@ -67,7 +71,7 @@ module.exports = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/nativesintech/docs",
+              href: "https://github.com/nativesintech",
             },
             {
               label: "Twitter",
@@ -93,6 +97,8 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           editUrl: "https://github.com/nativesintech/docs/edit/master/",
         },
         theme: {

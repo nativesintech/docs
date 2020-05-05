@@ -1,10 +1,10 @@
 ---
 id: template
-title: README Template
-sidebar_label: README
+title: Welcome Contributors 👋
+sidebar_label: Welcome Message
 ---
 
-Below is a template for README for NiT projects. Not all projects follow this structure but it is encouraged that they do.
+Below is a template README for NiT projects. It is a welcome message to potential collaborators. Not all projects follow this structure but it is encouraged that they have some kind of structure that communicates the goals of the project as well as how someone can help contribute to that project.
 
 ## Meta
 

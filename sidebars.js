@@ -1,7 +1,6 @@
 module.exports = {
-  someSidebar: {
+  docs: {
     Introduction: ["beginning", "governance", "community"],
     Projects: ["projects", "template", "resources"],
-    Community: [],
   },
 };
