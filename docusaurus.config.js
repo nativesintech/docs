@@ -28,10 +28,10 @@ module.exports = {
           position: "right",
         },
       ],
-      algolia: {
-        apiKey: "977abf334a413942460b7e2ee3c0030f",
-        indexName: "nativesintech",
-      },
+    },
+    algolia: {
+      apiKey: "977abf334a413942460b7e2ee3c0030f",
+      indexName: "nativesintech",
     },
     footer: {
       style: "dark",
