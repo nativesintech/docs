@@ -14,7 +14,7 @@ module.exports = {
         alt: "Natives in Tech Logo",
         src: "img/logo.svg",
       },
-      links: [
+      items: [
         {
           to: "docs/beginning",
           activeBasePath: "docs",
