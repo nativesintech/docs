@@ -2,7 +2,7 @@ module.exports = {
   title: "Natives in Tech Docs",
   tagline:
     "Searchable documentation for the Natives in Tech GitHub organization",
-  url: "docs.nativesintech.org",
+  url: "https://docs.nativesintech.org",
   baseUrl: "/",
   favicon: "img/favicon.ico",
   organizationName: "nativesintech",
