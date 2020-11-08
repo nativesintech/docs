@@ -4,8 +4,8 @@
   <ShortName>Natives in Tech Docs</ShortName>
   <Description>Search Natives in Tech Docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://nativesintech.github.io/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://nativesintech.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://nativesintech.github.io/opensearch.xml" />
-  <moz:SearchForm>https://nativesintech.github.io</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.nativesintech.org/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.nativesintech.org/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.nativesintech.org/opensearch.xml" />
+  <moz:SearchForm>https://docs.nativesintech.org</moz:SearchForm>
 </OpenSearchDescription>
