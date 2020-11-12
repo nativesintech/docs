@@ -8,9 +8,9 @@ sidebar_label: About
 
 Natives in Tech started out as an idea in late 2017. Inspired by an [article written about Natives in the tech field](https://medium.com/women-of-silicon-valley/just-18-awesome-native-folks-in-stem-134211ff14cd), [Adam Recvlohe](https://github.com/arecvlohe) created a Slack group where Natives, and non-Natives alike, could gather and chat about software development. Around the same time, the Natives in Tech GitHub organization was created to host projects related to Native topics and ideas. A couple years later, Natives in Tech, Inc. was formed as a 501(c)(3) nonprofit with the goal of furthering the work of the GitHub organization to the broader non-technical world.
 
-## Natives in Tech GitHub Org vs Natives in Tech, Inc.
+## Natives in Tech, Inc. and Natives in Tech GitHub Org
 
-This documentation is solely for Natives in Tech GitHub organization. A central location to search for any information related to activities on GitHub, to answer frequently asked questions, to blog about the work of the organization, among many other things. If you want to find out more about the nonprofit side of things, then visit [nativesintech.org](https://nativesintech.org).
+This documentation is for the Natives in Tech nonprofit and GitHub organization. It's a central location to search for any information related to activities on GitHub, to answer frequently asked questions, to outline about the work of the organization and nonprofit, among many other things. If you want to find out more about the nonprofit side of things, then visit [nativesintech.org](https://nativesintech.org).
 
 :::note
 One benefit of becoming a nonprofit is taking advantage of tools that are free or discounted for 501(c)(3) exempt organizations. Some software we use for free are:

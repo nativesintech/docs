@@ -1,7 +1,7 @@
 module.exports = {
   title: "Natives in Tech Docs",
   tagline:
-    "Searchable documentation for the Natives in Tech GitHub organization",
+    "Searchable documentation for the Natives in Tech nonprofit and GitHub organization",
   url: "https://docs.nativesintech.org",
   baseUrl: "/",
   favicon: "img/favicon.ico",
@@ -21,7 +21,6 @@ module.exports = {
           label: "Docs",
           position: "left",
         },
-        { to: "blog", label: "Blog", position: "left" },
         {
           href: "https://github.com/nativesintech/docs",
           label: "GitHub",
@@ -47,15 +46,15 @@ module.exports = {
               label: "Projects",
               to: "docs/projects",
             },
+            {
+              label: "Operations",
+              to: "docs/operations",
+            },
           ],
         },
         {
           title: "Community",
           items: [
-            {
-              label: "Slack",
-              href: "http://nativesintech.herokuapp.com/",
-            },
             {
               label: "Forum",
               href: "https://forum.nativesintech.org",
@@ -65,10 +64,6 @@ module.exports = {
         {
           title: "Social",
           items: [
-            {
-              label: "Blog",
-              to: "blog",
-            },
             {
               label: "GitHub",
               href: "https://github.com/nativesintech",
@@ -84,6 +79,11 @@ module.exports = {
             {
               label: "Facebook",
               href: "https://facebook.com/nativesintech",
+            },
+            {
+              label: "YouTube",
+              href:
+                "https://www.youtube.com/channel/UCRyR1Jm77K9uVN1QXvoLY6A?view_as=subscriber",
             },
           ],
         },
