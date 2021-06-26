@@ -8,33 +8,20 @@ import styles from "./styles.module.css";
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
+    title: <>Nonprofit</>,
+    imageUrl: "img/natives_in_tech_site.png",
+    description: <>Natives in Tech, Inc. is a US 501(c)(3) charitable organization, funded by individual donations.</>,
   },
   {
-    title: <>Focus on What Matters</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
+    title: <>GitHub Org</>,
+    imageUrl: "img/natives_in_tech_github.png",
+    description: <>Natives in Tech GitHub org is a hub for Native technological innovation.</>,
   },
   {
-    title: <>Powered by React</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    title: <>For Everyone</>,
+    imageUrl: "img/natives_in_tech_docs.png",
     description: (
-      <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+      <>Learn how Natives in Tech runs their organization and volunteer in ways you feel most comfortable.</>
     ),
   },
 ];
@@ -58,20 +45,14 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-    >
+    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={classnames(
-                "button button--outline button--secondary button--lg",
-                styles.getStarted
-              )}
+              className={classnames("button button--outline button--secondary button--lg", styles.getStarted)}
               to={useBaseUrl("docs/beginning")}
             >
               Get Started

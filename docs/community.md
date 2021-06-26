@@ -1,6 +1,6 @@
 ---
 id: community
-title: Where to Find Us 🤓
+title: Community
 sidebar_label: Community
 ---
 

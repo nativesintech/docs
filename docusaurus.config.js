@@ -1,6 +1,6 @@
 module.exports = {
   title: "Natives in Tech Docs",
-  tagline: "Searchable documentation for the Natives in Tech nonprofit and GitHub organization",
+  tagline: "Searchable documentation for the Natives in Tech organization",
   url: "https://docs.nativesintech.org",
   baseUrl: "/",
   favicon: "img/favicon.ico",
