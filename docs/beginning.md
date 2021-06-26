@@ -1,12 +1,10 @@
 ---
 id: beginning
-title: The Beginning 🌎
+title: About
 sidebar_label: About
 ---
 
-## How It All Started
-
-Natives in Tech started out as an idea in late 2017. Inspired by an [article written about Natives in the tech field](https://medium.com/women-of-silicon-valley/just-18-awesome-native-folks-in-stem-134211ff14cd), [Adam Recvlohe](https://github.com/arecvlohe) created a Slack group where Natives, and non-Natives alike, could gather and chat about software development. Around the same time, the Natives in Tech GitHub organization was created to host projects related to Native topics and ideas. A couple years later, Natives in Tech, Inc. was formed as a 501(c)(3) nonprofit with the goal of furthering the work of the GitHub organization to the broader non-technical world.
+Natives in Tech started out as an idea in late 2017. Inspired by an [article written about Natives in the tech field](https://medium.com/women-of-silicon-valley/just-18-awesome-native-folks-in-stem-134211ff14cd), Native technologists created a Slack group where Natives, and non-Natives alike, could gather and chat about software development. Around the same time, the Natives in Tech GitHub organization was created to host projects related to Native topics and ideas. A couple years later, Natives in Tech, Inc. was formed as a 501(c)(3) nonprofit with the goal of furthering the work of the GitHub organization to the broader non-technical world.
 
 ## Natives in Tech, Inc. and Natives in Tech GitHub Org
 

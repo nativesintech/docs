@@ -1,10 +1,8 @@
 ---
 id: resources
-title: Hosting on a Platform 💻
+title: Resources
 sidebar_label: Resources
 ---
-
-## Intro
 
 The NiT GitHub organization runs applications on third party services, some of which are free of charge and some of which are paid. Through donations from NiT, Inc., board members, and generous companies who provide services for open source projects, NiT can host various applications on different services. These applications have mainly been based off of ideas from NiT admins who desire to see their applications built out in the open. One example of this is the NiT website which is hosted on Netlify, a free service for open source projects. However, we would like to make these services available for anyone who is interested in building a platform that supports Native communities in the open source community using open source software. This repository is intended to layout what the process is for someone who wants to use NiT resources to host their platform that empowers Native peoples.
 
