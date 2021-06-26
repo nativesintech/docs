@@ -47,7 +47,7 @@ module.exports = {
             },
             {
               label: "Operations",
-              to: "docs/operations",
+              to: "docs/operations_about",
             },
           ],
         },
