@@ -1,6 +1,6 @@
 ---
 id: governance
-title: Org Structure 📚
+title: Governance
 sidebar_label: Governance
 ---
 

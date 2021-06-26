@@ -6,7 +6,7 @@ sidebar_label: Funding
 
 ## Fund Raising (Open Collective)
 
-- **What is it?** We use [Open Collective](opencollective.com/) to receive and distribute funds in a transparent manner. Any receiving of funds is tracks and any disbursement of funds can only happen through an invoice or reimbursement on the platform. We think having our finances open and transparent builds trust in our community and those who fund us.
+- **What is it?** We use [Open Collective](https://opencollective.com/) to receive and distribute funds in a transparent manner. Any receiving of funds is tracks and any disbursement of funds can only happen through an invoice or reimbursement on the platform. We think having our finances open and transparent builds trust in our community and those who fund us.
 - **Who has access?** The board of directors all have access to this.
 - **How does one get access?** Each board of director will need to create an account on the Open Collective platform and then they will be invited to join our team account.
 
