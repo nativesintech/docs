@@ -92,6 +92,9 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Native in Tech, Inc. Built with Docusaurus.`,
     },
+    colorMode: {
+      respectPrefersColorScheme: true,
+    },
   },
   presets: [
     [
