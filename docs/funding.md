@@ -24,4 +24,13 @@ sidebar_label: Funding
 
 ## Grants (MIT Solve, etc.)
 
+Over the years we have applied to various grants. The first being MIT Solve:
+
+- [Indigenous Communities Fellowship 2021](https://solve.mit.edu/challenges/2021-indigenous-communities-fellowship/solutions/46067)
+- [Anti-racist Technology in the US](https://solve.mit.edu/challenges/antiracist-technology/solutions/50937)
+
+There are more grants out there but we just haven't had the funds and time to submit to them. We hope to submit for more grants in the near future.
+
 ## Taxes
+
+If your organizations makes less than $50K dollars in total donations in any one year you can submit a Form [990-N form](https://www.irs.gov/charities-non-profits/exempt-organizations-e-file-e-postcard). We have done this for the past few years. However, once our donations grow to more than $50K a year this will need to change. For now though, we send the 990-N form each year.
