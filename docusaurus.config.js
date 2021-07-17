@@ -104,7 +104,7 @@ module.exports = {
           sidebarPath: require.resolve("./sidebars.js"),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
-          editUrl: "https://github.com/nativesintech/docs/edit/master/",
+          editUrl: "https://github.com/nativesintech/docs/edit/latest/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
