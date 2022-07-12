@@ -1,0 +1,5 @@
+# Algolia-Crawler-Verif: BFEABD2A87761694
+
+User-agent: *
+Allow: /
+Sitemap: https://docs.nativesintech.org/sitemap.xml
