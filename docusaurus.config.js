@@ -29,7 +29,7 @@ module.exports = {
     },
     algolia: {
       appId: "GKE8L83V2I",
-      apiKey: "ea08075df1b31f7f00809fad92edd86e",
+      apiKey: "a1521a4df76ee75d9b80189738539a13",
       indexName: "nativesintech",
     },
     footer: {
