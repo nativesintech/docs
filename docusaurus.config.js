@@ -32,8 +32,6 @@ module.exports = {
       appId: "GKE8L83V2I",
       apiKey: "a1521a4df76ee75d9b80189738539a13",
       indexName: "nativesintech",
-      start_urls: ["https://docs.nativesintech.org"],
-      sitemap_urls: ["https://docs.nativesintech.org/sitemap.xml"],
     },
     footer: {
       style: "dark",
