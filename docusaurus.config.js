@@ -6,6 +6,7 @@ module.exports = {
   favicon: "img/favicon.ico",
   organizationName: "nativesintech",
   projectName: "docs",
+  trailingSlash: false,
   themeConfig: {
     navbar: {
       title: "Natives in Tech",
