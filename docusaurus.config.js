@@ -33,6 +33,9 @@ module.exports = {
       apiKey: "a1521a4df76ee75d9b80189738539a13",
       indexName: "nativesintech",
       contextualSearch: true,
+      searchParameters: {
+        facetFilters: [],
+      },
     },
     footer: {
       style: "dark",
